@@ -1,0 +1,11 @@
+runtime: go
+
+env: flex
+
+# This sample incurs costs to run on the App Engine flexible environment. 
+manual_scaling:
+  instances: 1
+resources:
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 1
