@@ -10,4 +10,4 @@ EXPOSE 8080
 
 RUN go build
 
-CMD ["go run ."]
+CMD ["./Golang_App"]
