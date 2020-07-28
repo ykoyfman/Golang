@@ -1,4 +1,4 @@
-body  {
+/*body  {
    min-height:50%;
    min-width: 50%;
    background-image: url("gopher.png"), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3));
@@ -17,4 +17,4 @@ body  {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+}*/
